@@ -1,0 +1,14 @@
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\bin\Debug\net8.0\Läx-rättning.exe
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\bin\Debug\net8.0\Läx-rättning.deps.json
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\bin\Debug\net8.0\Läx-rättning.runtimeconfig.json
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\bin\Debug\net8.0\Läx-rättning.dll
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\bin\Debug\net8.0\Läx-rättning.pdb
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.AssemblyInfoInputs.cache
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.AssemblyInfo.cs
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.csproj.CoreCompileInputs.cache
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.dll
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\refint\Läx-rättning.dll
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.pdb
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\Läx-rättning.genruntimeconfig.cache
+c:\Users\Leosu\Documents\Programming\Generiska\Läx-rättning\obj\Debug\net8.0\ref\Läx-rättning.dll
